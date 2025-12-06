@@ -43,3 +43,13 @@ This assignment demonstrates
     - Producer-consumer communication
 
     - Unit testing
+
+## Run csv data analysis assignment
+
+python src/analysis_main.py
+
+This reads the data/sales.csv file and prints:
+    - total sales
+    - sales grouped by category
+    - avg transaction value
+    - top n sales

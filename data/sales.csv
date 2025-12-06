@@ -1,0 +1,8 @@
+transaction_id,date,category,product,total_price
+1,2024-01-01,Electronics,Laptop,30000
+2,2024-01-02,Electronics,Mouse,100
+3,2024-01-02,Clothing,Shirt,2000
+4,2024-01-03,Groceries,Milk,50
+5,2024-01-04,Electronics,Keyboard,250
+6,2024-01-04,Clothing,Jacket,1000
+7,2024-01-05,Furniture,Chair,500
